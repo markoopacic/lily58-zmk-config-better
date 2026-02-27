@@ -80,6 +80,8 @@
 &trans  &kp LS(LC(D))  &kp LC(LS(X))  &kp LC(LS(C))  &kp LC(SPACE)  &trans  &trans    &trans  &trans  &trans         &trans         &trans         &trans                 &trans
                                       &trans         &trans         &trans  &trans    &trans  &trans  &trans         &trans
             >;
+
+            label = "App";
         };
 
         free_realestate {
@@ -90,6 +92,8 @@
 &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
                         &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans
             >;
+
+            label = "Free";
         };
     };
 };
