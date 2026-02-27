@@ -96,8 +96,8 @@
             label = "Free";
         };
 
-        layer_5 {
-            display-name = "Raise";
+        not_raise {
+            display-name = "Not Raise";
             bindings = <
 &trans  &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &kp K_MUTE  &kp K_VOLUME_DOWN  &kp K_VOLUME_UP                         &trans       &kp C_PREV  &kp C_PP   &kp C_NEXT     &trans     &kp LC(LG(Q))
 &trans  &trans                &trans                &trans      &trans             &trans                                  &trans       &trans      &trans     &trans         &trans     &trans
