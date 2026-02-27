@@ -77,7 +77,7 @@
 &trans  &trans         &trans         &trans         &trans         &trans                    &trans  &trans         &trans         &trans         &trans                 &trans
 &trans  &trans         &trans         &trans         &trans         &trans                    &trans  &trans         &trans         &trans         &trans                 &trans
 &trans  &kp LS(LC(A))  &kp LC(LS(S))  &kp LC(LS(D))  &kp LC(LS(F))  &trans                    &trans  &kp LC(LS(J))  &kp LC(LS(K))  &kp LC(LS(L))  &kp LC(LS(SEMICOLON))  &trans
-&trans  &kp LS(LC(D))  &kp LC(LS(X))  &kp LC(LS(C))  &kp LA(SPACE)  &trans  &trans    &trans  &trans  &trans         &trans         &trans         &trans                 &trans
+&trans  &kp LS(LC(Z))  &kp LC(LS(X))  &kp LC(LS(C))  &kp LA(SPACE)  &trans  &trans    &trans  &trans  &trans         &trans         &trans         &trans                 &trans
                                       &trans         &trans         &trans  &trans    &trans  &trans  &trans         &trans
             >;
 
