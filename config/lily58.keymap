@@ -92,11 +92,11 @@
 
             display-name = "Lower";
             bindings = <
-&trans     &trans    &trans  &trans    &trans      &trans                             &trans       &trans            &trans             &trans          &trans           &trans
-&trans     &trans    &trans  &trans    &trans      &trans                             &trans       &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE  &kp RIGHT_BRACE  &trans
-&kp GRAVE  &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PRCNT                          &kp CARET    &kp AMPS          &kp KP_MULTIPLY    &kp LPAR        &kp RPAR         &kp TILDE
-&trans     &trans    &trans  &trans    &trans      &trans     &trans    &trans        &kp KP_PLUS  &kp MINUS         &kp EQUAL          &kp BACKSLASH   &kp PIPE         &kp UNDER
-                             &trans    &trans      &trans     &trans    &lt 3 RETURN  &trans       &trans            &trans
+&kp RG(LC(Q))  &trans    &trans  &trans    &trans      &trans                             &trans       &trans            &trans             &trans          &trans           &trans
+&trans         &trans    &trans  &trans    &trans      &trans                             &trans       &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE  &kp RIGHT_BRACE  &trans
+&kp GRAVE      &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PRCNT                          &kp CARET    &kp AMPS          &kp KP_MULTIPLY    &kp LPAR        &kp RPAR         &kp TILDE
+&trans         &trans    &trans  &trans    &trans      &trans     &trans    &trans        &kp KP_PLUS  &kp MINUS         &kp EQUAL          &kp BACKSLASH   &kp PIPE         &kp UNDER
+                                 &trans    &trans      &trans     &trans    &lt 3 RETURN  &trans       &trans            &trans
             >;
         };
 
