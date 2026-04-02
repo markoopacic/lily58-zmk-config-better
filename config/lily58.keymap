@@ -132,11 +132,11 @@
 
         layer_4 {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans                    &trans                          &trans  &trans  &trans                           &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                    &trans                          &trans  &trans  &trans                           &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                    &kp RS(RA(RC(RG(LEFT_ARROW))))  &trans  &trans  &kp RS(RA(RC(RG(RIGHT_ARROW))))  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans                          &trans  &trans  &trans                           &trans  &trans
-                        &trans  &trans  &trans  &trans    &trans  &trans                          &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans                    &trans                          &trans                          &trans                        &trans                           &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans                    &trans                          &trans                          &trans                        &trans                           &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans                    &kp RS(RA(RC(RG(LEFT_ARROW))))  &kp RS(RA(RC(RG(DOWN_ARROW))))  &kp RS(RA(RC(RG(UP_ARROW))))  &kp RS(RA(RC(RG(RIGHT_ARROW))))  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans                          &trans                          &trans                        &trans                           &trans  &trans
+                        &trans  &trans  &trans  &trans    &trans  &trans                          &trans                          &trans
             >;
         };
     };
